@@ -1,0 +1,15 @@
+Questions:
+1. Which country with the most success? (10 best) - plot1
+- As shown on the graph
+
+2. Does age correlates with gold medals? - plot2
+- We can't tell because of inflation of 25'ish competitors.
+  Anyway, we clearly can infer that most of the winners are around 23-25.
+
+3. At what year was the most medals? - plot3 percentile, plot4 amount
+- The more competitors, the more medals won. In particular 1992.
+
+4. Which sport with the most success to each country? (swim, judo, gym) plot5
+Swimming - USA
+Judo - Japan
+Gymnastics - Soviet Union (Russia)
